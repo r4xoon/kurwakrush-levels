@@ -1,0 +1,6 @@
+# macOS / iCloud noise
+.DS_Store
+*.icloud
+
+# iCloud Drive conflict copies ("Foo 2.json")
+* 2.*
