@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-12",
+  "objective" : {
+    "moves" : 20,
+    "target" : 8460,
+    "type" : "score"
+  },
+  "pieces" : [
+    "bigos",
+    "kielbasa",
+    "kasza",
+    "placki",
+    "mielony",
+    "kapusta",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 8460,
+    "threeStar" : 15228,
+    "twoStar" : 11844
+  },
+  "seed" : 2540278442412559032
+}

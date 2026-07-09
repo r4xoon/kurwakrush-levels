@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-10",
+  "objective" : {
+    "moves" : 24,
+    "target" : 17160,
+    "type" : "score"
+  },
+  "pieces" : [
+    "bigos",
+    "krowki",
+    "golabki",
+    "kapusta",
+    "kasza",
+    "mielony"
+  ],
+  "scoring" : {
+    "oneStar" : 17160,
+    "threeStar" : 30888,
+    "twoStar" : 24024
+  },
+  "seed" : 13427087424885300314
+}

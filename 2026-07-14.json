@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-14",
+  "objective" : {
+    "moves" : 28,
+    "target" : 32460,
+    "type" : "score"
+  },
+  "pieces" : [
+    "zurek",
+    "kasza",
+    "krowki",
+    "placki",
+    "mielony"
+  ],
+  "scoring" : {
+    "oneStar" : 32460,
+    "threeStar" : 58428,
+    "twoStar" : 45444
+  },
+  "seed" : 16195272683736421701
+}

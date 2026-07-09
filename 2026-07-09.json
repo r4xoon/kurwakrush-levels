@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-09",
+  "objective" : {
+    "moves" : 25,
+    "target" : 16140,
+    "type" : "score"
+  },
+  "pieces" : [
+    "golabki",
+    "ogorki",
+    "kielbasa",
+    "mielony",
+    "oscypek",
+    "barszcz"
+  ],
+  "scoring" : {
+    "oneStar" : 16140,
+    "threeStar" : 29052,
+    "twoStar" : 22596
+  },
+  "seed" : 292052960797782301
+}

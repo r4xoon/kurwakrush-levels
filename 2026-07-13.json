@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-13",
+  "objective" : {
+    "moves" : 30,
+    "target" : 31200,
+    "type" : "score"
+  },
+  "pieces" : [
+    "bigos",
+    "placki",
+    "kielbasa",
+    "ogorki",
+    "oscypek"
+  ],
+  "scoring" : {
+    "oneStar" : 31200,
+    "threeStar" : 56160,
+    "twoStar" : 43680
+  },
+  "seed" : 8181038514524056813
+}
