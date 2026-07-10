@@ -10,12 +10,12 @@
     "type" : "score"
   },
   "pieces" : [
-    "bigos",
+    "placki",
+    "sledz",
     "krowki",
-    "golabki",
     "kapusta",
-    "kasza",
-    "mielony"
+    "golabki",
+    "kasza"
   ],
   "scoring" : {
     "oneStar" : 17160,

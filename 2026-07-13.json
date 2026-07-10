@@ -10,11 +10,11 @@
     "type" : "score"
   },
   "pieces" : [
-    "bigos",
-    "placki",
-    "kielbasa",
-    "ogorki",
-    "oscypek"
+    "barszcz",
+    "kasza",
+    "zurek",
+    "kapusta",
+    "sledz"
   ],
   "scoring" : {
     "oneStar" : 31200,

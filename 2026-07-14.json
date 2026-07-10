@@ -10,11 +10,11 @@
     "type" : "score"
   },
   "pieces" : [
+    "sledz",
     "zurek",
-    "kasza",
-    "krowki",
-    "placki",
-    "mielony"
+    "ogorki",
+    "oscypek",
+    "barszcz"
   ],
   "scoring" : {
     "oneStar" : 32460,

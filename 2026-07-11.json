@@ -10,13 +10,13 @@
     "type" : "score"
   },
   "pieces" : [
-    "krowki",
-    "bigos",
-    "golabki",
-    "barszcz",
     "sledz",
+    "ogorki",
+    "golabki",
+    "pierogi",
+    "krowki",
     "mielony",
-    "kielbasa"
+    "kapusta"
   ],
   "scoring" : {
     "oneStar" : 9660,

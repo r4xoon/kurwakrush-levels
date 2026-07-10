@@ -10,13 +10,13 @@
     "type" : "score"
   },
   "pieces" : [
-    "bigos",
-    "kielbasa",
-    "kasza",
-    "placki",
-    "mielony",
     "kapusta",
-    "krowki"
+    "zurek",
+    "kasza",
+    "bigos",
+    "sledz",
+    "pierogi",
+    "ogorki"
   ],
   "scoring" : {
     "oneStar" : 8460,
