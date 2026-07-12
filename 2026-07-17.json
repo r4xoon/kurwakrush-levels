@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-17",
+  "objective" : {
+    "moves" : 24,
+    "target" : 14100,
+    "type" : "score"
+  },
+  "pieces" : [
+    "zurek",
+    "barszcz",
+    "kapusta",
+    "kabanos",
+    "placki",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 14100,
+    "threeStar" : 25380,
+    "twoStar" : 19740
+  },
+  "seed" : 14353705598845446035
+}

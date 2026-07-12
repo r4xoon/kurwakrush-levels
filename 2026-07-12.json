@@ -6,22 +6,22 @@
   "id" : "2026-07-12",
   "objective" : {
     "moves" : 20,
-    "target" : 8460,
+    "target" : 8940,
     "type" : "score"
   },
   "pieces" : [
+    "kabanos",
     "kapusta",
-    "zurek",
-    "kasza",
     "bigos",
-    "sledz",
     "pierogi",
-    "ogorki"
+    "krowki",
+    "sledz",
+    "kasza"
   ],
   "scoring" : {
-    "oneStar" : 8460,
-    "threeStar" : 15228,
-    "twoStar" : 11844
+    "oneStar" : 8940,
+    "threeStar" : 16092,
+    "twoStar" : 12516
   },
   "seed" : 2540278442412559032
 }

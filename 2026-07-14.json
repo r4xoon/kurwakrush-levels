@@ -6,20 +6,20 @@
   "id" : "2026-07-14",
   "objective" : {
     "moves" : 28,
-    "target" : 32460,
+    "target" : 40020,
     "type" : "score"
   },
   "pieces" : [
     "sledz",
-    "zurek",
     "ogorki",
-    "oscypek",
-    "barszcz"
+    "zurek",
+    "barszcz",
+    "mielony"
   ],
   "scoring" : {
-    "oneStar" : 32460,
-    "threeStar" : 58428,
-    "twoStar" : 45444
+    "oneStar" : 40020,
+    "threeStar" : 72036,
+    "twoStar" : 56028
   },
   "seed" : 16195272683736421701
 }

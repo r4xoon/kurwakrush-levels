@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-08",
+  "objective" : {
+    "moves" : 26,
+    "target" : 14040,
+    "type" : "score"
+  },
+  "pieces" : [
+    "golabki",
+    "kielbasa",
+    "pierogi",
+    "sledz",
+    "mielony",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 14040,
+    "threeStar" : 25272,
+    "twoStar" : 19656
+  },
+  "seed" : 7141910126485161910
+}

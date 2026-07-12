@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-15",
+  "objective" : {
+    "moves" : 26,
+    "target" : 15060,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "kielbasa",
+    "oscypek",
+    "kapusta",
+    "zurek",
+    "bigos"
+  ],
+  "scoring" : {
+    "oneStar" : 15060,
+    "threeStar" : 27108,
+    "twoStar" : 21084
+  },
+  "seed" : 5259096814563940356
+}

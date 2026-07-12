@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-16",
+  "objective" : {
+    "moves" : 25,
+    "target" : 20040,
+    "type" : "score"
+  },
+  "pieces" : [
+    "placki",
+    "ogorki",
+    "sledz",
+    "zurek",
+    "bigos",
+    "mielony"
+  ],
+  "scoring" : {
+    "oneStar" : 20040,
+    "threeStar" : 36072,
+    "twoStar" : 28056
+  },
+  "seed" : 12695731299188204720
+}

@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-07",
+  "objective" : {
+    "moves" : 28,
+    "target" : 32460,
+    "type" : "score"
+  },
+  "pieces" : [
+    "pierogi",
+    "ogorki",
+    "kapusta",
+    "barszcz",
+    "bigos"
+  ],
+  "scoring" : {
+    "oneStar" : 32460,
+    "threeStar" : 58428,
+    "twoStar" : 45444
+  },
+  "seed" : 17918091244878449399
+}

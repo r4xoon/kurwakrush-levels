@@ -6,20 +6,20 @@
   "id" : "2026-07-13",
   "objective" : {
     "moves" : 30,
-    "target" : 31200,
+    "target" : 43020,
     "type" : "score"
   },
   "pieces" : [
-    "barszcz",
-    "kasza",
-    "zurek",
+    "krowki",
     "kapusta",
-    "sledz"
+    "oscypek",
+    "sledz",
+    "barszcz"
   ],
   "scoring" : {
-    "oneStar" : 31200,
-    "threeStar" : 56160,
-    "twoStar" : 43680
+    "oneStar" : 43020,
+    "threeStar" : 77436,
+    "twoStar" : 60228
   },
   "seed" : 8181038514524056813
 }
