@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-21",
+  "objective" : {
+    "moves" : 28,
+    "target" : 35880,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "zurek",
+    "pierogi",
+    "kasza",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 35880,
+    "threeStar" : 64584,
+    "twoStar" : 50232
+  },
+  "seed" : 18402619032308417382
+}
