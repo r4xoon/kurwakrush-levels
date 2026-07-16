@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-22",
+  "objective" : {
+    "moves" : 26,
+    "target" : 17760,
+    "type" : "score"
+  },
+  "pieces" : [
+    "oscypek",
+    "barszcz",
+    "kapusta",
+    "kielbasa",
+    "sledz",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 17760,
+    "threeStar" : 31968,
+    "twoStar" : 24864
+  },
+  "seed" : 9380731410078756576
+}
