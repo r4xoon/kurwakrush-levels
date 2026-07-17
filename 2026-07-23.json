@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-23",
+  "objective" : {
+    "moves" : 25,
+    "target" : 22560,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kasza",
+    "barszcz",
+    "zurek",
+    "oscypek",
+    "sledz",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 22560,
+    "threeStar" : 40608,
+    "twoStar" : 31584
+  },
+  "seed" : 7748002166016685711
+}
