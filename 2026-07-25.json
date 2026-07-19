@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-25",
+  "objective" : {
+    "moves" : 22,
+    "target" : 11040,
+    "type" : "score"
+  },
+  "pieces" : [
+    "placki",
+    "golabki",
+    "kapusta",
+    "sledz",
+    "mielony",
+    "krowki",
+    "paczki"
+  ],
+  "scoring" : {
+    "oneStar" : 11040,
+    "threeStar" : 19872,
+    "twoStar" : 15456
+  },
+  "seed" : 4779441625033141899
+}
