@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-26",
+  "objective" : {
+    "moves" : 20,
+    "target" : 15540,
+    "type" : "score"
+  },
+  "pieces" : [
+    "placki",
+    "sledz",
+    "kapusta",
+    "mielony",
+    "bigos",
+    "krowki",
+    "pierogi"
+  ],
+  "scoring" : {
+    "oneStar" : 15540,
+    "threeStar" : 27972,
+    "twoStar" : 21756
+  },
+  "seed" : 8869960163235988375
+}

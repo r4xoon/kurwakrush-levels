@@ -6,7 +6,7 @@
   "id" : "2026-07-21",
   "objective" : {
     "moves" : 28,
-    "target" : 35880,
+    "target" : 43620,
     "type" : "score"
   },
   "pieces" : [
@@ -17,9 +17,9 @@
     "golabki"
   ],
   "scoring" : {
-    "oneStar" : 35880,
-    "threeStar" : 64584,
-    "twoStar" : 50232
+    "oneStar" : 43620,
+    "threeStar" : 78516,
+    "twoStar" : 61068
   },
   "seed" : 18402619032308417382
 }

@@ -6,7 +6,7 @@
   "id" : "2026-07-25",
   "objective" : {
     "moves" : 22,
-    "target" : 11040,
+    "target" : 13230,
     "type" : "score"
   },
   "pieces" : [
@@ -19,9 +19,9 @@
     "paczki"
   ],
   "scoring" : {
-    "oneStar" : 11040,
-    "threeStar" : 19872,
-    "twoStar" : 15456
+    "oneStar" : 13230,
+    "threeStar" : 23814,
+    "twoStar" : 18522
   },
   "seed" : 4779441625033141899
 }

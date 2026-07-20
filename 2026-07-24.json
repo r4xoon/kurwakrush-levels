@@ -6,7 +6,7 @@
   "id" : "2026-07-24",
   "objective" : {
     "moves" : 24,
-    "target" : 16140,
+    "target" : 20250,
     "type" : "score"
   },
   "pieces" : [
@@ -18,9 +18,9 @@
     "zurek"
   ],
   "scoring" : {
-    "oneStar" : 16140,
-    "threeStar" : 29052,
-    "twoStar" : 22596
+    "oneStar" : 20250,
+    "threeStar" : 36450,
+    "twoStar" : 28350
   },
   "seed" : 17427370370529247301
 }

@@ -6,7 +6,7 @@
   "id" : "2026-07-20",
   "objective" : {
     "moves" : 30,
-    "target" : 49560,
+    "target" : 59190,
     "type" : "score"
   },
   "pieces" : [
@@ -17,9 +17,9 @@
     "placki"
   ],
   "scoring" : {
-    "oneStar" : 49560,
-    "threeStar" : 89208,
-    "twoStar" : 69384
+    "oneStar" : 59190,
+    "threeStar" : 106542,
+    "twoStar" : 82866
   },
   "seed" : 13678023142548626205
 }
