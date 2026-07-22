@@ -6,8 +6,10 @@
   "id" : "2026-07-22",
   "objective" : {
     "moves" : 26,
-    "target" : 20340,
-    "type" : "score"
+    "targets" : {
+      "zurek" : 21
+    },
+    "type" : "collect"
   },
   "pieces" : [
     "oscypek",
@@ -18,9 +20,9 @@
     "zurek"
   ],
   "scoring" : {
-    "oneStar" : 20340,
-    "threeStar" : 36612,
-    "twoStar" : 28476
+    "oneStar" : 21540,
+    "threeStar" : 38772,
+    "twoStar" : 30156
   },
   "seed" : 9380731410078756576
 }

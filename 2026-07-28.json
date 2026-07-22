@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-28",
+  "objective" : {
+    "moves" : 28,
+    "targets" : {
+      "kasza" : 82
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "zurek",
+    "kasza",
+    "paczki",
+    "bigos",
+    "kapusta"
+  ],
+  "scoring" : {
+    "oneStar" : 55560,
+    "threeStar" : 100008,
+    "twoStar" : 77784
+  },
+  "seed" : 13443873700720174471
+}

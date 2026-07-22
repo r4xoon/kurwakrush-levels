@@ -6,8 +6,10 @@
   "id" : "2026-07-26",
   "objective" : {
     "moves" : 20,
-    "target" : 15540,
-    "type" : "score"
+    "targets" : {
+      "bigos" : 20
+    },
+    "type" : "collect"
   },
   "pieces" : [
     "placki",
@@ -19,9 +21,9 @@
     "pierogi"
   ],
   "scoring" : {
-    "oneStar" : 15540,
-    "threeStar" : 27972,
-    "twoStar" : 21756
+    "oneStar" : 17810,
+    "threeStar" : 32058,
+    "twoStar" : 24934
   },
   "seed" : 8869960163235988375
 }

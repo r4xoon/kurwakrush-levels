@@ -4,10 +4,55 @@
     "rows" : 9
   },
   "id" : "2026-07-25",
+  "jelly" : [
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      4
+    ]
+  ],
   "objective" : {
     "moves" : 22,
-    "target" : 13230,
-    "type" : "score"
+    "type" : "clearJelly"
   },
   "pieces" : [
     "placki",
@@ -19,9 +64,9 @@
     "paczki"
   ],
   "scoring" : {
-    "oneStar" : 13230,
-    "threeStar" : 23814,
-    "twoStar" : 18522
+    "oneStar" : 6780,
+    "threeStar" : 12204,
+    "twoStar" : 9492
   },
   "seed" : 4779441625033141899
 }

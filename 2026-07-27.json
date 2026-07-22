@@ -6,8 +6,10 @@
   "id" : "2026-07-27",
   "objective" : {
     "moves" : 30,
-    "target" : 52920,
-    "type" : "score"
+    "targets" : {
+      "sledz" : 71
+    },
+    "type" : "collect"
   },
   "pieces" : [
     "sledz",
@@ -17,9 +19,9 @@
     "kapusta"
   ],
   "scoring" : {
-    "oneStar" : 52920,
-    "threeStar" : 95256,
-    "twoStar" : 74088
+    "oneStar" : 54960,
+    "threeStar" : 98928,
+    "twoStar" : 76944
   },
   "seed" : 5623135597990589359
 }
