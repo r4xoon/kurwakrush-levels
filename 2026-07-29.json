@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-07-29",
+  "objective" : {
+    "moves" : 26,
+    "targets" : {
+      "kielbasa" : 29
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kielbasa",
+    "bigos",
+    "paczki",
+    "kapusta",
+    "zurek",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 22990,
+    "threeStar" : 41382,
+    "twoStar" : 32186
+  },
+  "seed" : 10362197062059828861
+}
