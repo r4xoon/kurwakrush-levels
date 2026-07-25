@@ -1,0 +1,67 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-07-31",
+  "jelly" : [
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "objective" : {
+    "moves" : 24,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "kapusta",
+    "kabanos",
+    "sledz",
+    "golabki",
+    "zurek",
+    "paczki"
+  ],
+  "scoring" : {
+    "oneStar" : 10250,
+    "threeStar" : 18450,
+    "twoStar" : 14350
+  },
+  "seed" : 12920862721943697893
+}
