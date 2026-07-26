@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-01",
+  "objective" : {
+    "moves" : 22,
+    "targets" : {
+      "bigos" : 22
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "bigos",
+    "kielbasa",
+    "sledz",
+    "placki",
+    "kapusta",
+    "zurek",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 11940,
+    "threeStar" : 21492,
+    "twoStar" : 16716
+  },
+  "seed" : 16284043624936429165
+}
