@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-04",
+  "objective" : {
+    "moves" : 28,
+    "target" : 59770,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "bigos",
+    "ogorki",
+    "pierogi",
+    "mielony"
+  ],
+  "scoring" : {
+    "oneStar" : 59770,
+    "threeStar" : 107586,
+    "twoStar" : 83678
+  },
+  "seed" : 15403722393794147701
+}
