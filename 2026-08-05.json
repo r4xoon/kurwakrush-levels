@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-05",
+  "objective" : {
+    "moves" : 26,
+    "targets" : {
+      "kabanos" : 46
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "barszcz",
+    "ogorki",
+    "kabanos",
+    "sledz",
+    "placki",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 33180,
+    "threeStar" : 59724,
+    "twoStar" : 46452
+  },
+  "seed" : 7114379524547582761
+}
