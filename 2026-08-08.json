@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-08",
+  "objective" : {
+    "moves" : 22,
+    "targets" : {
+      "kapusta" : 19
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kapusta",
+    "pierogi",
+    "krowki",
+    "sledz",
+    "bigos",
+    "kielbasa",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 14790,
+    "threeStar" : 26622,
+    "twoStar" : 20706
+  },
+  "seed" : 831031019729586977
+}
