@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-10",
+  "objective" : {
+    "moves" : 30,
+    "target" : 47730,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kabanos",
+    "sledz",
+    "krowki",
+    "pierogi",
+    "kapusta"
+  ],
+  "scoring" : {
+    "oneStar" : 47730,
+    "threeStar" : 85914,
+    "twoStar" : 66822
+  },
+  "seed" : 5950214708181430732
+}
