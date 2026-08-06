@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-12",
+  "objective" : {
+    "moves" : 26,
+    "target" : 19910,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kapusta",
+    "sledz",
+    "krowki",
+    "barszcz",
+    "placki",
+    "kielbasa"
+  ],
+  "scoring" : {
+    "oneStar" : 19910,
+    "threeStar" : 35838,
+    "twoStar" : 27874
+  },
+  "seed" : 4007265125838523138
+}
