@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-13",
+  "objective" : {
+    "moves" : 25,
+    "target" : 26480,
+    "type" : "score"
+  },
+  "pieces" : [
+    "zurek",
+    "bigos",
+    "kasza",
+    "oscypek",
+    "sledz",
+    "kapusta"
+  ],
+  "scoring" : {
+    "oneStar" : 26480,
+    "threeStar" : 47664,
+    "twoStar" : 37072
+  },
+  "seed" : 13604793195621473946
+}
