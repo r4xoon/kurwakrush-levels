@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-14",
+  "objective" : {
+    "moves" : 24,
+    "targets" : {
+      "kapusta" : 34
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "oscypek",
+    "kapusta",
+    "sledz",
+    "bigos",
+    "zurek",
+    "kielbasa"
+  ],
+  "scoring" : {
+    "oneStar" : 23430,
+    "threeStar" : 42174,
+    "twoStar" : 32802
+  },
+  "seed" : 11659246549464438061
+}
