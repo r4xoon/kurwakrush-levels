@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-15",
+  "objective" : {
+    "moves" : 22,
+    "target" : 19580,
+    "type" : "score"
+  },
+  "pieces" : [
+    "zurek",
+    "sledz",
+    "kapusta",
+    "placki",
+    "kielbasa",
+    "golabki",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 19580,
+    "threeStar" : 35244,
+    "twoStar" : 27412
+  },
+  "seed" : 6193690098929164927
+}
