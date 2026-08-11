@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-17",
+  "objective" : {
+    "moves" : 30,
+    "targets" : {
+      "krowki" : 75
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kielbasa",
+    "krowki",
+    "barszcz",
+    "sledz",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 48360,
+    "threeStar" : 87048,
+    "twoStar" : 67704
+  },
+  "seed" : 4005740211921626460
+}
