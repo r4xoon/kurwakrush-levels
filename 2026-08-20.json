@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-20",
+  "objective" : {
+    "moves" : 25,
+    "target" : 25170,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kasza",
+    "oscypek",
+    "golabki",
+    "sledz",
+    "ogorki",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 25170,
+    "threeStar" : 45306,
+    "twoStar" : 35238
+  },
+  "seed" : 5443295083424088938
+}
