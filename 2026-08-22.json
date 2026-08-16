@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-22",
+  "objective" : {
+    "moves" : 22,
+    "targets" : {
+      "oscypek" : 19
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kasza",
+    "kapusta",
+    "sledz",
+    "oscypek",
+    "krowki",
+    "bigos",
+    "kabanos"
+  ],
+  "scoring" : {
+    "oneStar" : 12030,
+    "threeStar" : 21654,
+    "twoStar" : 16842
+  },
+  "seed" : 9734694679086297578
+}
