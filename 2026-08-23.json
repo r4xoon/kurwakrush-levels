@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-23",
+  "objective" : {
+    "moves" : 20,
+    "target" : 15870,
+    "type" : "score"
+  },
+  "pieces" : [
+    "oscypek",
+    "kapusta",
+    "kasza",
+    "golabki",
+    "zurek",
+    "sledz",
+    "placki"
+  ],
+  "scoring" : {
+    "oneStar" : 15870,
+    "threeStar" : 28566,
+    "twoStar" : 22218
+  },
+  "seed" : 771436330119231615
+}
