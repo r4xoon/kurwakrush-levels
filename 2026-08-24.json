@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-24",
+  "objective" : {
+    "moves" : 30,
+    "target" : 49350,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kabanos",
+    "ogorki",
+    "oscypek",
+    "barszcz",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 49350,
+    "threeStar" : 88830,
+    "twoStar" : 69090
+  },
+  "seed" : 3175913703140873822
+}
