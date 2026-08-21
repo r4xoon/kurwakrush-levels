@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-27",
+  "objective" : {
+    "moves" : 25,
+    "targets" : {
+      "sledz" : 33
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "zurek",
+    "sledz",
+    "mielony",
+    "kapusta",
+    "bigos",
+    "pierogi"
+  ],
+  "scoring" : {
+    "oneStar" : 23550,
+    "threeStar" : 42390,
+    "twoStar" : 32970
+  },
+  "seed" : 17718694714138437668
+}
