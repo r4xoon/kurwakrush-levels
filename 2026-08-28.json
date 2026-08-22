@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-28",
+  "objective" : {
+    "moves" : 24,
+    "targets" : {
+      "zurek" : 40
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "zurek",
+    "ogorki",
+    "barszcz",
+    "oscypek",
+    "kielbasa",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 23840,
+    "threeStar" : 42912,
+    "twoStar" : 33376
+  },
+  "seed" : 14405793537897586761
+}
