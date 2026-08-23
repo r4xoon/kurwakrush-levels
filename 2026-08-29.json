@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-29",
+  "objective" : {
+    "moves" : 22,
+    "target" : 9750,
+    "type" : "score"
+  },
+  "pieces" : [
+    "bigos",
+    "oscypek",
+    "kasza",
+    "sledz",
+    "zurek",
+    "ogorki",
+    "barszcz"
+  ],
+  "scoring" : {
+    "oneStar" : 9750,
+    "threeStar" : 17550,
+    "twoStar" : 13650
+  },
+  "seed" : 7996782762894817549
+}
