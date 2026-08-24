@@ -1,0 +1,64 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-08-30",
+  "jelly" : [
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      6
+    ]
+  ],
+  "objective" : {
+    "moves" : 20,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "barszcz",
+    "paczki",
+    "ogorki",
+    "sledz",
+    "mielony",
+    "krowki",
+    "bigos"
+  ],
+  "scoring" : {
+    "oneStar" : 8700,
+    "threeStar" : 15660,
+    "twoStar" : 12180
+  },
+  "seed" : 13193436089926472096
+}
