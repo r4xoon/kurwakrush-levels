@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-08-31",
+  "objective" : {
+    "moves" : 30,
+    "target" : 47790,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kasza",
+    "sledz",
+    "bigos",
+    "kapusta",
+    "placki"
+  ],
+  "scoring" : {
+    "oneStar" : 47790,
+    "threeStar" : 86022,
+    "twoStar" : 66906
+  },
+  "seed" : 283084283387929719
+}
