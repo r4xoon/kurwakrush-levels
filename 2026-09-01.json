@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-09-01",
+  "objective" : {
+    "moves" : 28,
+    "target" : 60510,
+    "type" : "score"
+  },
+  "pieces" : [
+    "ogorki",
+    "barszcz",
+    "pierogi",
+    "zurek",
+    "kabanos"
+  ],
+  "scoring" : {
+    "oneStar" : 60510,
+    "threeStar" : 108918,
+    "twoStar" : 84714
+  },
+  "seed" : 940296622445009932
+}
