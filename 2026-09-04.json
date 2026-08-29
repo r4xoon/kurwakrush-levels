@@ -1,0 +1,67 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-04",
+  "jelly" : [
+    [
+      4,
+      6
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "objective" : {
+    "moves" : 24,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "mielony",
+    "sledz",
+    "barszcz",
+    "ogorki",
+    "placki",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 12390,
+    "threeStar" : 22302,
+    "twoStar" : 17346
+  },
+  "seed" : 296443958987799592
+}
