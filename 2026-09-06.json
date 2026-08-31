@@ -1,0 +1,76 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-06",
+  "jelly" : [
+    [
+      2,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      3,
+      2
+    ]
+  ],
+  "objective" : {
+    "moves" : 20,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "sledz",
+    "pierogi",
+    "bigos",
+    "kasza",
+    "kapusta",
+    "zurek",
+    "oscypek"
+  ],
+  "scoring" : {
+    "oneStar" : 8990,
+    "threeStar" : 16182,
+    "twoStar" : 12586
+  },
+  "seed" : 3133977065067405780
+}
