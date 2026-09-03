@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-09-09",
+  "objective" : {
+    "moves" : 26,
+    "target" : 17150,
+    "type" : "score"
+  },
+  "pieces" : [
+    "golabki",
+    "zurek",
+    "mielony",
+    "sledz",
+    "pierogi",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 17150,
+    "threeStar" : 30870,
+    "twoStar" : 24010
+  },
+  "seed" : 983555491945104713
+}
