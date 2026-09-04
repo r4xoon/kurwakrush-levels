@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-10",
+  "objective" : {
+    "moves" : 25,
+    "target" : 19830,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "ogorki",
+    "barszcz",
+    "placki",
+    "mielony",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 19830,
+    "threeStar" : 35694,
+    "twoStar" : 27762
+  },
+  "seed" : 11233741371356590328
+}
