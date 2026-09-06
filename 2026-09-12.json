@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-12",
+  "objective" : {
+    "moves" : 22,
+    "target" : 10880,
+    "type" : "score"
+  },
+  "pieces" : [
+    "golabki",
+    "sledz",
+    "krowki",
+    "kielbasa",
+    "kapusta",
+    "paczki",
+    "bigos"
+  ],
+  "scoring" : {
+    "oneStar" : 10880,
+    "threeStar" : 19584,
+    "twoStar" : 15232
+  },
+  "seed" : 3821998546305730818
+}
