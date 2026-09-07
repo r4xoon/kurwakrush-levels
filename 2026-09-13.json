@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-13",
+  "objective" : {
+    "moves" : 20,
+    "target" : 11550,
+    "type" : "score"
+  },
+  "pieces" : [
+    "placki",
+    "zurek",
+    "mielony",
+    "golabki",
+    "kapusta",
+    "sledz",
+    "oscypek"
+  ],
+  "scoring" : {
+    "oneStar" : 11550,
+    "threeStar" : 20790,
+    "twoStar" : 16170
+  },
+  "seed" : 9977402199121805637
+}
