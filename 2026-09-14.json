@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-09-14",
+  "objective" : {
+    "moves" : 30,
+    "target" : 55980,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "pierogi",
+    "mielony",
+    "zurek",
+    "kapusta"
+  ],
+  "scoring" : {
+    "oneStar" : 55980,
+    "threeStar" : 100764,
+    "twoStar" : 78372
+  },
+  "seed" : 8157605454441469931
+}
