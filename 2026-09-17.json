@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-17",
+  "objective" : {
+    "moves" : 25,
+    "targets" : {
+      "golabki" : 35
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "oscypek",
+    "sledz",
+    "kasza",
+    "zurek",
+    "golabki",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 25020,
+    "threeStar" : 45036,
+    "twoStar" : 35028
+  },
+  "seed" : 5917685194815231660
+}
