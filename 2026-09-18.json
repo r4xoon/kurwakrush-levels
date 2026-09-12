@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-18",
+  "objective" : {
+    "moves" : 24,
+    "target" : 28380,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kasza",
+    "sledz",
+    "krowki",
+    "oscypek",
+    "bigos",
+    "kapusta"
+  ],
+  "scoring" : {
+    "oneStar" : 28380,
+    "threeStar" : 51084,
+    "twoStar" : 39732
+  },
+  "seed" : 3563651110409347600
+}
