@@ -1,0 +1,72 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-19",
+  "jelly" : [
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "objective" : {
+    "moves" : 22,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "sledz",
+    "krowki",
+    "pierogi",
+    "kabanos",
+    "bigos",
+    "ogorki",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 5040,
+    "threeStar" : 9072,
+    "twoStar" : 7056
+  },
+  "seed" : 4749428901824642296
+}
