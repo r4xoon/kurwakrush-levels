@@ -1,0 +1,67 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-25",
+  "jelly" : [
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      0,
+      4
+    ]
+  ],
+  "objective" : {
+    "moves" : 24,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "golabki",
+    "placki",
+    "sledz",
+    "krowki",
+    "ogorki",
+    "mielony"
+  ],
+  "scoring" : {
+    "oneStar" : 10350,
+    "threeStar" : 18630,
+    "twoStar" : 14490
+  },
+  "seed" : 12159203043765977980
+}
