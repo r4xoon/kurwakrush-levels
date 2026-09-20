@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-26",
+  "objective" : {
+    "moves" : 22,
+    "targets" : {
+      "ogorki" : 25
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "sledz",
+    "barszcz",
+    "zurek",
+    "kabanos",
+    "placki",
+    "ogorki",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 15810,
+    "threeStar" : 28458,
+    "twoStar" : 22134
+  },
+  "seed" : 13773846920055368657
+}
