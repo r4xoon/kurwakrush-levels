@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 9,
+    "rows" : 9
+  },
+  "id" : "2026-09-27",
+  "objective" : {
+    "moves" : 20,
+    "targets" : {
+      "kasza" : 29
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "sledz",
+    "kapusta",
+    "kasza",
+    "bigos",
+    "krowki",
+    "paczki",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 20100,
+    "threeStar" : 36180,
+    "twoStar" : 28140
+  },
+  "seed" : 13825847894492379374
+}
