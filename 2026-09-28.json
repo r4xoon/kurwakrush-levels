@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-09-28",
+  "objective" : {
+    "moves" : 30,
+    "targets" : {
+      "sledz" : 64
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "barszcz",
+    "sledz",
+    "placki",
+    "krowki",
+    "mielony"
+  ],
+  "scoring" : {
+    "oneStar" : 48630,
+    "threeStar" : 87534,
+    "twoStar" : 68082
+  },
+  "seed" : 18211397747525487859
+}
