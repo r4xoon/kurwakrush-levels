@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 8
+  },
+  "id" : "2026-09-30",
+  "objective" : {
+    "moves" : 26,
+    "targets" : {
+      "zurek" : 30
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kasza",
+    "placki",
+    "kapusta",
+    "zurek",
+    "barszcz",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 16650,
+    "threeStar" : 29970,
+    "twoStar" : 23310
+  },
+  "seed" : 14551343015502917770
+}
