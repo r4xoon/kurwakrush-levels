@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-10-04",
+  "objective" : {
+    "moves" : 20,
+    "targets" : {
+      "bigos" : 13
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "sledz",
+    "krowki",
+    "bigos",
+    "kapusta",
+    "oscypek",
+    "mielony",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 7230,
+    "threeStar" : 13014,
+    "twoStar" : 10122
+  },
+  "seed" : 15094422879253478162
+}
