@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-05",
+  "objective" : {
+    "moves" : 30,
+    "targets" : {
+      "placki" : 60
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "krowki",
+    "placki",
+    "barszcz",
+    "kielbasa",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 42180,
+    "threeStar" : 75924,
+    "twoStar" : 59052
+  },
+  "seed" : 10272272603904230562
+}
