@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-10-06",
+  "objective" : {
+    "moves" : 28,
+    "target" : 37200,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kapusta",
+    "sledz",
+    "golabki",
+    "kabanos",
+    "pierogi"
+  ],
+  "scoring" : {
+    "oneStar" : 37200,
+    "threeStar" : 66960,
+    "twoStar" : 52080
+  },
+  "seed" : 8794345302853027728
+}
