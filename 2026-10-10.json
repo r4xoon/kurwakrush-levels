@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-10-10",
+  "objective" : {
+    "moves" : 22,
+    "targets" : {
+      "kasza" : 21
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "pierogi",
+    "sledz",
+    "kasza",
+    "krowki",
+    "kapusta",
+    "golabki",
+    "oscypek"
+  ],
+  "scoring" : {
+    "oneStar" : 17130,
+    "threeStar" : 30834,
+    "twoStar" : 23982
+  },
+  "seed" : 12743141070732090460
+}
