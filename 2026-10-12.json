@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-12",
+  "objective" : {
+    "moves" : 30,
+    "target" : 47930,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "krowki",
+    "ogorki",
+    "pierogi",
+    "kabanos"
+  ],
+  "scoring" : {
+    "oneStar" : 47930,
+    "threeStar" : 86274,
+    "twoStar" : 67102
+  },
+  "seed" : 10310797173907234146
+}
