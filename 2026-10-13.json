@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-13",
+  "objective" : {
+    "moves" : 28,
+    "target" : 43520,
+    "type" : "score"
+  },
+  "pieces" : [
+    "zurek",
+    "placki",
+    "bigos",
+    "kapusta",
+    "kasza"
+  ],
+  "scoring" : {
+    "oneStar" : 43520,
+    "threeStar" : 78336,
+    "twoStar" : 60928
+  },
+  "seed" : 8467169762938477137
+}
