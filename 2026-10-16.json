@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-10-16",
+  "objective" : {
+    "moves" : 24,
+    "targets" : {
+      "barszcz" : 48
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kabanos",
+    "kapusta",
+    "sledz",
+    "krowki",
+    "barszcz",
+    "paczki"
+  ],
+  "scoring" : {
+    "oneStar" : 29520,
+    "threeStar" : 53136,
+    "twoStar" : 41328
+  },
+  "seed" : 4565207704109790155
+}
