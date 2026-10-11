@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-10-17",
+  "objective" : {
+    "moves" : 22,
+    "target" : 11460,
+    "type" : "score"
+  },
+  "pieces" : [
+    "krowki",
+    "mielony",
+    "ogorki",
+    "golabki",
+    "sledz",
+    "oscypek",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 11460,
+    "threeStar" : 20628,
+    "twoStar" : 16044
+  },
+  "seed" : 8099358280037599703
+}
