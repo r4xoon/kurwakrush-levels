@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-10-18",
+  "objective" : {
+    "moves" : 20,
+    "targets" : {
+      "oscypek" : 18
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "zurek",
+    "oscypek",
+    "sledz",
+    "mielony",
+    "bigos",
+    "kapusta",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 12870,
+    "threeStar" : 23166,
+    "twoStar" : 18018
+  },
+  "seed" : 12714201419439376771
+}
