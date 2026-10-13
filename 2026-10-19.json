@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-19",
+  "objective" : {
+    "moves" : 30,
+    "targets" : {
+      "kabanos" : 81
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "barszcz",
+    "krowki",
+    "ogorki",
+    "pierogi",
+    "kabanos"
+  ],
+  "scoring" : {
+    "oneStar" : 59640,
+    "threeStar" : 107352,
+    "twoStar" : 83496
+  },
+  "seed" : 5956274182541815163
+}
