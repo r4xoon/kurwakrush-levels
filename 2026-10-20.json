@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-10-20",
+  "objective" : {
+    "moves" : 28,
+    "target" : 34070,
+    "type" : "score"
+  },
+  "pieces" : [
+    "kapusta",
+    "paczki",
+    "zurek",
+    "sledz",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 34070,
+    "threeStar" : 61326,
+    "twoStar" : 47698
+  },
+  "seed" : 6136304632546739453
+}
