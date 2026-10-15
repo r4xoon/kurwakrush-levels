@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-21",
+  "objective" : {
+    "moves" : 26,
+    "targets" : {
+      "ogorki" : 22
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "mielony",
+    "sledz",
+    "zurek",
+    "golabki",
+    "placki",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 20070,
+    "threeStar" : 36126,
+    "twoStar" : 28098
+  },
+  "seed" : 13154573354575375258
+}
