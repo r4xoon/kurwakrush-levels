@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-10-24",
+  "objective" : {
+    "moves" : 22,
+    "target" : 9560,
+    "type" : "score"
+  },
+  "pieces" : [
+    "barszcz",
+    "krowki",
+    "oscypek",
+    "kielbasa",
+    "sledz",
+    "ogorki",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 9560,
+    "threeStar" : 17208,
+    "twoStar" : 13384
+  },
+  "seed" : 15933398308838956320
+}
