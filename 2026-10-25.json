@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-25",
+  "objective" : {
+    "moves" : 20,
+    "target" : 12450,
+    "type" : "score"
+  },
+  "pieces" : [
+    "krowki",
+    "sledz",
+    "kapusta",
+    "kielbasa",
+    "pierogi",
+    "barszcz",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 12450,
+    "threeStar" : 22410,
+    "twoStar" : 17430
+  },
+  "seed" : 10346940957598392952
+}
