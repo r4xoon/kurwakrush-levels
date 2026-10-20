@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-10-26",
+  "objective" : {
+    "moves" : 30,
+    "targets" : {
+      "kielbasa" : 87
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "sledz",
+    "kielbasa",
+    "oscypek",
+    "barszcz",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 56880,
+    "threeStar" : 102384,
+    "twoStar" : 79632
+  },
+  "seed" : 16135969638415638464
+}
