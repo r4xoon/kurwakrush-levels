@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-10-28",
+  "objective" : {
+    "moves" : 26,
+    "target" : 20630,
+    "type" : "score"
+  },
+  "pieces" : [
+    "sledz",
+    "kasza",
+    "golabki",
+    "placki",
+    "krowki",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 20630,
+    "threeStar" : 37134,
+    "twoStar" : 28882
+  },
+  "seed" : 10727398953992791243
+}
