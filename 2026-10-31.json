@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-10-31",
+  "objective" : {
+    "moves" : 22,
+    "target" : 11130,
+    "type" : "score"
+  },
+  "pieces" : [
+    "barszcz",
+    "zurek",
+    "kapusta",
+    "sledz",
+    "kielbasa",
+    "placki",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 11130,
+    "threeStar" : 20034,
+    "twoStar" : 15582
+  },
+  "seed" : 10282226607285754618
+}
