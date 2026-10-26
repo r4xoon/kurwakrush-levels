@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-11-01",
+  "objective" : {
+    "moves" : 20,
+    "targets" : {
+      "kapusta" : 14
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "golabki",
+    "sledz",
+    "kapusta",
+    "krowki",
+    "oscypek",
+    "kabanos",
+    "bigos"
+  ],
+  "scoring" : {
+    "oneStar" : 10110,
+    "threeStar" : 18198,
+    "twoStar" : 14154
+  },
+  "seed" : 12829244229161878957
+}
