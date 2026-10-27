@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-11-02",
+  "objective" : {
+    "moves" : 30,
+    "target" : 58180,
+    "type" : "score"
+  },
+  "pieces" : [
+    "paczki",
+    "golabki",
+    "zurek",
+    "kielbasa",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 58180,
+    "threeStar" : 104724,
+    "twoStar" : 81452
+  },
+  "seed" : 4745608219813617004
+}
