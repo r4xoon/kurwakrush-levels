@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-11-05",
+  "objective" : {
+    "moves" : 25,
+    "targets" : {
+      "zurek" : 40
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "bigos",
+    "pierogi",
+    "kielbasa",
+    "zurek",
+    "kapusta",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 25170,
+    "threeStar" : 45306,
+    "twoStar" : 35238
+  },
+  "seed" : 11496525400949341259
+}
