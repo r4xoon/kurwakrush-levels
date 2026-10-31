@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-11-06",
+  "objective" : {
+    "moves" : 24,
+    "target" : 23790,
+    "type" : "score"
+  },
+  "pieces" : [
+    "mielony",
+    "barszcz",
+    "sledz",
+    "ogorki",
+    "oscypek",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 23790,
+    "threeStar" : 42822,
+    "twoStar" : 33306
+  },
+  "seed" : 9284519981441326723
+}
