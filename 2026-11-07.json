@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-11-07",
+  "objective" : {
+    "moves" : 22,
+    "target" : 14100,
+    "type" : "score"
+  },
+  "pieces" : [
+    "zurek",
+    "oscypek",
+    "barszcz",
+    "mielony",
+    "sledz",
+    "ogorki",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 14100,
+    "threeStar" : 25380,
+    "twoStar" : 19740
+  },
+  "seed" : 5025835122951487539
+}
