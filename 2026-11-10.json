@@ -1,0 +1,25 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-11-10",
+  "objective" : {
+    "moves" : 28,
+    "target" : 50130,
+    "type" : "score"
+  },
+  "pieces" : [
+    "ogorki",
+    "mielony",
+    "bigos",
+    "zurek",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 50130,
+    "threeStar" : 90234,
+    "twoStar" : 70182
+  },
+  "seed" : 14368680777544500006
+}
