@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-11-11",
+  "objective" : {
+    "moves" : 26,
+    "targets" : {
+      "bigos" : 38
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "sledz",
+    "ogorki",
+    "mielony",
+    "pierogi",
+    "bigos",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 23190,
+    "threeStar" : 41742,
+    "twoStar" : 32466
+  },
+  "seed" : 18157476869487094667
+}
