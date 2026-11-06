@@ -1,0 +1,26 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-11-12",
+  "objective" : {
+    "moves" : 25,
+    "target" : 14330,
+    "type" : "score"
+  },
+  "pieces" : [
+    "placki",
+    "ogorki",
+    "bigos",
+    "mielony",
+    "sledz",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 14330,
+    "threeStar" : 25794,
+    "twoStar" : 20062
+  },
+  "seed" : 1049095683001091839
+}
