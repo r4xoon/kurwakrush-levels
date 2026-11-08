@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-11-14",
+  "objective" : {
+    "moves" : 22,
+    "target" : 11100,
+    "type" : "score"
+  },
+  "pieces" : [
+    "krowki",
+    "sledz",
+    "bigos",
+    "paczki",
+    "kapusta",
+    "kasza",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 11100,
+    "threeStar" : 19980,
+    "twoStar" : 15540
+  },
+  "seed" : 8826110057919892546
+}
