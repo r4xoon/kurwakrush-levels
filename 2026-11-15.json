@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-11-15",
+  "objective" : {
+    "moves" : 20,
+    "targets" : {
+      "ogorki" : 13
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kapusta",
+    "golabki",
+    "krowki",
+    "paczki",
+    "sledz",
+    "kabanos",
+    "ogorki"
+  ],
+  "scoring" : {
+    "oneStar" : 13110,
+    "threeStar" : 23598,
+    "twoStar" : 18354
+  },
+  "seed" : 13866863570256181660
+}
