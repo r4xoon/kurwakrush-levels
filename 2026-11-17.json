@@ -1,0 +1,54 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-11-17",
+  "jelly" : [
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "objective" : {
+    "moves" : 28,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "mielony",
+    "krowki",
+    "oscypek",
+    "barszcz",
+    "sledz"
+  ],
+  "scoring" : {
+    "oneStar" : 10710,
+    "threeStar" : 19278,
+    "twoStar" : 14994
+  },
+  "seed" : 12502269381572402595
+}
