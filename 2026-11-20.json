@@ -1,0 +1,67 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-11-20",
+  "jelly" : [
+    [
+      4,
+      3
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      5
+    ]
+  ],
+  "objective" : {
+    "moves" : 24,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "zurek",
+    "sledz",
+    "kabanos",
+    "bigos",
+    "ogorki",
+    "paczki"
+  ],
+  "scoring" : {
+    "oneStar" : 15650,
+    "threeStar" : 28170,
+    "twoStar" : 21910
+  },
+  "seed" : 6929784689348802184
+}
