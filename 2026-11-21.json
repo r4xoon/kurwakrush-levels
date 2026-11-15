@@ -1,0 +1,72 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-11-21",
+  "jelly" : [
+    [
+      2,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "objective" : {
+    "moves" : 22,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "sledz",
+    "ogorki",
+    "golabki",
+    "kielbasa",
+    "zurek",
+    "pierogi",
+    "kapusta"
+  ],
+  "scoring" : {
+    "oneStar" : 6690,
+    "threeStar" : 12042,
+    "twoStar" : 9366
+  },
+  "seed" : 3112893543532698984
+}
