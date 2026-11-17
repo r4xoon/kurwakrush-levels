@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 8,
+    "rows" : 9
+  },
+  "id" : "2026-11-23",
+  "objective" : {
+    "moves" : 30,
+    "targets" : {
+      "ogorki" : 73
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "barszcz",
+    "paczki",
+    "sledz",
+    "ogorki",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 63770,
+    "threeStar" : 114786,
+    "twoStar" : 89278
+  },
+  "seed" : 13278543427553312657
+}
