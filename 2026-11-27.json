@@ -1,0 +1,67 @@
+{
+  "board" : {
+    "cols" : 7,
+    "rows" : 9
+  },
+  "id" : "2026-11-27",
+  "jelly" : [
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "objective" : {
+    "moves" : 24,
+    "type" : "clearJelly"
+  },
+  "pieces" : [
+    "krowki",
+    "oscypek",
+    "sledz",
+    "kasza",
+    "kapusta",
+    "golabki"
+  ],
+  "scoring" : {
+    "oneStar" : 9390,
+    "threeStar" : 16902,
+    "twoStar" : 13146
+  },
+  "seed" : 8430855883818764598
+}
