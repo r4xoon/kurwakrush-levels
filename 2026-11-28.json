@@ -1,0 +1,27 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-11-28",
+  "objective" : {
+    "moves" : 22,
+    "target" : 9810,
+    "type" : "score"
+  },
+  "pieces" : [
+    "bigos",
+    "zurek",
+    "kabanos",
+    "placki",
+    "sledz",
+    "kapusta",
+    "barszcz"
+  ],
+  "scoring" : {
+    "oneStar" : 9810,
+    "threeStar" : 17658,
+    "twoStar" : 13734
+  },
+  "seed" : 9673600648236664131
+}
