@@ -1,0 +1,29 @@
+{
+  "board" : {
+    "cols" : 6,
+    "rows" : 9
+  },
+  "id" : "2026-11-29",
+  "objective" : {
+    "moves" : 20,
+    "targets" : {
+      "sledz" : 13
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "krowki",
+    "oscypek",
+    "kapusta",
+    "kabanos",
+    "sledz",
+    "barszcz",
+    "zurek"
+  ],
+  "scoring" : {
+    "oneStar" : 9480,
+    "threeStar" : 17064,
+    "twoStar" : 13272
+  },
+  "seed" : 11720655897281462078
+}
