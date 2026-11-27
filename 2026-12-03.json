@@ -1,0 +1,28 @@
+{
+  "board" : {
+    "cols" : 5,
+    "rows" : 9
+  },
+  "id" : "2026-12-03",
+  "objective" : {
+    "moves" : 25,
+    "targets" : {
+      "bigos" : 26
+    },
+    "type" : "collect"
+  },
+  "pieces" : [
+    "kasza",
+    "kapusta",
+    "bigos",
+    "sledz",
+    "oscypek",
+    "krowki"
+  ],
+  "scoring" : {
+    "oneStar" : 19100,
+    "threeStar" : 34380,
+    "twoStar" : 26740
+  },
+  "seed" : 11563629835449879579
+}
